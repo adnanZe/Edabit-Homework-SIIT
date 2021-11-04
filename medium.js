@@ -2,6 +2,8 @@
 // https://edabit.com/challenge/4gzDuDkompAqujpRi
 // Create a function that takes a number as an argument. Add up all the numbers from 1 to the number you passed to the function. For example, if the input is 4 then your function should return 10 because 1 + 2 + 3 + 4 = 10.
 
+console.log('=== Medium 1. Create a function that takes a number as an argument. Add up all the numbers from 1 to the number you passed to the function. For example, if the input is 4 then your function should return 10 because 1 + 2 + 3 + 4 = 10. ===');
+
 let addUp = (number) => {
   let sum = null;
   for(let i = 1; i <= number; i++){
@@ -32,6 +34,8 @@ console.log('\n\n');
 // 2
 // https://edabit.com/challenge/Q3n42rEWanZSTmsJm
 // Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
+
+console.log('=== Medium 2. Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order. ===');
 
 let max = null;
 let min = null;
@@ -66,6 +70,8 @@ console.log('\n\n');
 // https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB
 // Create a function that takes a string and returns a string in which each character is repeated once.
 
+console.log('=== Medium 3. Create a function that takes a string and returns a string in which each character is repeated once. ===');
+
 function doubleChar(stringInput){
   let newWord = stringInput.split('').map(function(letter){
     return letter + letter;
@@ -91,6 +97,8 @@ console.log('\n\n');
 // https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB
 // Create a function that takes a string and returns a string in which each character is repeated once.
 
+console.log('=== Medium 3.(Another solution) Create a function that takes a string and returns a string in which each character is repeated once.');
+
 function doubleChar(stringInput){
   let newWord = stringInput.replace(/./g, '$&$&');
   console.log(newWord);
@@ -113,6 +121,8 @@ console.log('\n\n');
 // 4
 // https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
 // A set is a collection of unique items. A set can be formed from an array from removing all duplicate items. Create a function that sorts an array and removes all duplicate items from it.
+
+console.log('=== Medium 4. A set is a collection of unique items. A set can be formed from an array from removing all duplicate items. Create a function that sorts an array and removes all duplicate items from it. ===');
 
 function set(arr) {
   // debugger
@@ -149,6 +159,8 @@ console.log('\n\n');
 // If there are 2 people, return "user1 and user2 online".
 // If there are n>2 people, return the first two names and add "and n-2 more online".'
 
+console.log('=== Medium 5. Write a function that returns the number of users in a chatroom based on the following rules: If there is no one, return "no one online"; If there is 1 person, return "user1 online"; If there are 2 people, return "user1 and user2 online"; If there are n>2 people, return the first two names and add "and n-2 more online". ===');
+
 function chatroomStatus(user){
   if(user.length == 0){
     console.log('no one online');
@@ -177,3 +189,5 @@ chatroomStatus(["becky325", "malcolm888", "fah32fa"]);
 chatroomStatus(["paRIE_to"]);
 chatroomStatus(["s234f", "mailbox2"]);
 chatroomStatus(["pap_ier44", "townieBOY", "panda321", "motor_bike5", "sandwichmaker833", "violinist91"]);
+
+console.log('\n\n');

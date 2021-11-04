@@ -3,6 +3,9 @@
 // You're given a string of words. You need to find the word "Nemo", and return a string like this: "I found Nemo at [the order of the word you find nemo]!".
 // If you can't find Nemo, return "I can't find Nemo :(".
 
+console.log('=== Hard 1. You\'re given a string of words. You need to find the word "Nemo", and return a string like this: "I found Nemo at [the order of the word you find nemo]!"; If you can\'t find Nemo, return "I can\'t find Nemo :(". ===');
+
+
 function findNemo(expressionToCheck) {
   let key = 'Nemo';
   let splitExpression = expressionToCheck.split(' ');
@@ -29,6 +32,8 @@ console.log('\n\n');
 // 2
 // https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 // Write a function that converts an object into an array, where each element represents a key-value pair in the form of an array.
+
+console.log('=== Hard 2. Write a function that converts an object into an array, where each element represents a key-value pair in the form of an array. ===');
 
 function toArray(objectToArray){
   return console.log(Object.entries(objectToArray));
