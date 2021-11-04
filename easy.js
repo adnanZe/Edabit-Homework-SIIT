@@ -2,7 +2,7 @@
 // https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
 // Create a function that takes two numbers as arguments and return their sum.
 
-console.log('=== 1. Create a function that takes two numbers as arguments and return their sum. ===');
+console.log('=== Easy 1. Create a function that takes two numbers as arguments and return their sum. ===');
 
 const addition = (firstNumber, secondNumber) => console.log(firstNumber + secondNumber);
 
