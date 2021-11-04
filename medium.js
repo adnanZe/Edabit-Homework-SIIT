@@ -97,7 +97,7 @@ console.log('\n\n');
 // https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB
 // Create a function that takes a string and returns a string in which each character is repeated once.
 
-console.log('=== Medium 3.(Another solution) Create a function that takes a string and returns a string in which each character is repeated once.');
+console.log('=== Medium 3. (Another solution) Create a function that takes a string and returns a string in which each character is repeated once.');
 
 function doubleChar(stringInput){
   let newWord = stringInput.replace(/./g, '$&$&');
