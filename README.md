@@ -1,4 +1,4 @@
-# Edabit-Homework-SIIT
+# Edabit Challenge 
 
 # Challenge week 4 extra
 
@@ -44,4 +44,8 @@ https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 
 ======================================================
 
-Check my solution in browser: https://adnanze.github.io/Edabit-Homework-SIIT/
+Check my solution in browser :eyes: https://adnanze.github.io/Edabit-Homework-SIIT/
+
+:iphone: :x:
+:computer: :heavy_check_mark:
+:desktop_computer: :heavy_check_mark:
