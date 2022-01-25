@@ -1,40 +1,40 @@
 # Edabit Challenge 
 
-Try resolving the tasks from every link.
+:clipboard: Try resolving the tasks from every link.
 
-Easy:
+:dart: Easy:
 
-https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
+:pushpin: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
 
-https://edabit.com/challenge/8q54MKnRrm89pSLmW
+:pushpin: https://edabit.com/challenge/8q54MKnRrm89pSLmW
 
-https://edabit.com/challenge/NAQhEoxbofPidLxm9
+:pushpin: https://edabit.com/challenge/NAQhEoxbofPidLxm9
 
-https://edabit.com/challenge/QaApgtePE6QrCZ64o
+:pushpin: https://edabit.com/challenge/QaApgtePE6QrCZ64o
 
-https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk
+:pushpin: https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk
 
-https://edabit.com/challenge/8Qg78sf5SNDEANKti
+:pushpin: https://edabit.com/challenge/8Qg78sf5SNDEANKti
 
-https://edabit.com/challenge/iBQYbSHZGhpktLRdn
+:pushpin: https://edabit.com/challenge/iBQYbSHZGhpktLRdn
 
-https://edabit.com/challenge/yHGowWucg3k2kJdZ4
+:pushpin: https://edabit.com/challenge/yHGowWucg3k2kJdZ4
 
-https://edabit.com/challenge/kLa2w7m4h849k8rmW
+:pushpin: https://edabit.com/challenge/kLa2w7m4h849k8rmW
 
-Medium:
+:dart: Medium:
 
-https://edabit.com/challenge/4gzDuDkompAqujpRi
+:pushpin: https://edabit.com/challenge/4gzDuDkompAqujpRi
 
-https://edabit.com/challenge/Q3n42rEWanZSTmsJm
+:pushpin: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
 
-https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB
+:pushpin: https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB
 
-https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
+:pushpin: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
 
-https://edabit.com/challenge/hscAGyt4iNZ3PKy3g
+:pushpin: https://edabit.com/challenge/hscAGyt4iNZ3PKy3g
 
-Hard:
+:dart: Hard:
 
 https://edabit.com/challenge/c23dFfNiKbnguSQtq
 
@@ -42,7 +42,7 @@ https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 
 ======================================================
 
-Check my solution in browser :eyes: https://adnanze.github.io/Edabit-SIIT/
+Check my solution in browser :eyes: :paperclip: https://adnanze.github.io/Edabit-SIIT/
 
 :iphone: :x:
 :computer: :heavy_check_mark:
