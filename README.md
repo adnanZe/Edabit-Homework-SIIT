@@ -36,13 +36,13 @@
 
 :dart: Hard:
 
-https://edabit.com/challenge/c23dFfNiKbnguSQtq
+:pushpin: https://edabit.com/challenge/c23dFfNiKbnguSQtq
 
-https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+:pushpin: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 
 ======================================================
 
-Check my solution in browser :eyes: :paperclip: https://adnanze.github.io/Edabit-SIIT/
+:eyes: Check my solution in browser :paperclip: https://adnanze.github.io/Edabit-SIIT/
 
 :iphone: :x:
 :computer: :heavy_check_mark:
