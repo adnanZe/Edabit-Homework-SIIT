@@ -1,7 +1,5 @@
 # Edabit Challenge 
 
-# Challenge week 4 extra
-
 Try resolving the tasks from every link.
 
 Easy:
@@ -44,7 +42,7 @@ https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 
 ======================================================
 
-Check my solution in browser :eyes: https://adnanze.github.io/Edabit-Homework-SIIT/
+Check my solution in browser :eyes: https://adnanze.github.io/Edabit-SIIT/
 
 :iphone: :x:
 :computer: :heavy_check_mark:
